@@ -27,9 +27,9 @@ Este projeto tem como objetivo prever os preços de ações da bolsa de valores 
 2. Crie um ambiente virtual e ative-o:
    
 python -m venv venv
-# No Windows
+### No Windows
 venv\Scripts\activate
-# No macOS/Linux
+### No macOS/Linux
 source venv/bin/activate
 
 ## Instalação
