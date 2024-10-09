@@ -34,13 +34,3 @@ source venv/bin/activate
 
 ## Instalação
 streamlit run app.py
-
-## Instalação
-
-.
-├── app.py                # Arquivo principal da aplicação
-├── logo.webp             # Imagem do logo da aplicação
-└── README.md             # Este arquivo
-
-
-
