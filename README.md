@@ -23,7 +23,9 @@ Este projeto tem como objetivo prever os preços de ações da bolsa de valores 
    ```bash
    git clone https://github.com/seu_usuario/nome_do_repositorio.git
    cd nome_do_repositorio
+   
 2. Crie um ambiente virtual e ative-o:
+   
 python -m venv venv
 # No Windows
 venv\Scripts\activate
